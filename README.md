@@ -1,4 +1,4 @@
 CocoaCoreCompetencies
 =====================
 
-Cocoa Core Competencies
+Cocoa Core Competencies extracted from Apple Developer web site.
